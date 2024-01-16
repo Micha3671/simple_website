@@ -15,10 +15,12 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
+    text-align: center;
 }
 
 .box {
     background-color: #f30909;
     border: 4px solid #ccc;
     padding: 15px;
+    text-align: center;
 }
