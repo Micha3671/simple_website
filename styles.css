@@ -24,3 +24,10 @@ section {
     padding: 20px;
     text-align: center;
 }
+
+.anotherbox {
+    background-color: #f30909;
+    border: 8px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
